@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 #### Github Statistics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Boeing773ER&show_icons=true&theme=dark&count_private=true)
--->
+![Github Stats](https://github-readme-stats-lilac-seven.vercel.app/api?username=Boeing773ER&show_icons=true&theme=dark&count_private=true)
+
 
 #### Language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boeing773ER)
+![Top Langs](https://github-readme-stats-lilac-seven.vercel.app/api/top-langs/?username=Boeing773ER)
 
