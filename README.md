@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### Github Statistics
 
-![Github Stats](https://github-readme-stats-lilac-seven.vercel.app/api?username=Boeing773ER&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats-lilac-seven.vercel.app/api?username=Boeing773ER&show_icons=true&count_private=true)
 
 
 #### Language
